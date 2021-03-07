@@ -11,3 +11,13 @@ body {
     left: 5px;
     cursor: pointer;
 }
+
+.empty {
+    display: inline-block;
+    height: 160px;
+    width: 160px;
+    margin: 10px;
+    border: 3px rgb(255, 172, 186) solid;
+    background-color: white;
+}
+
