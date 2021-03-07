@@ -17,7 +17,7 @@ body {
   height: 160px;
   width: 160px;
   margin: 10px;
-  border: 3px rgb(255, 172, 186) solid;
+  border: 3px rgb(255, 173, 187) solid;
   background-color: white;
 }
 
@@ -26,7 +26,7 @@ body {
 }
 
 .hovered {
-  background-color: lightpink;
+  background-color: rgba(255, 182, 193, 0.269);
   border-style: dashed;
 }
 
